@@ -14,6 +14,9 @@
 ## [AWS for Windows Technical Spanish](https://www.aws.training/Details/Curriculum?id=19158)
 ![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg)
 
+## [Migrating to AWS - Business Italian](https://www.aws.training/Details/Curriculum?id=63929)
+
+
 # Classroom(s) AWS
 
 ## [01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA](https://www.aws.training/Details/InstructorLedTraining?id=48602)
@@ -45,7 +48,12 @@
 #### [AWS Cloud Practitioner Essentials AWS Integrated Services]() 
 ![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg) 
 
+#### [AWSInnovate2020]()
+
 ![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
+
+#### [AWS PartnerCast - 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS - Technical](https://www.aws.training/Details/Video?id=58202)
+
 
 ## CERTIFICADOS por ordem de Datas
 
