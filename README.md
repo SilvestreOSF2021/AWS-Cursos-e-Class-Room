@@ -86,6 +86,8 @@
 
 ![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg)
 
+![AWS 34 Business Professional Modulo 3 envolvimento com cliente](https://user-images.githubusercontent.com/76437195/104213933-3bd42900-540d-11eb-8e93-a99fc5b147ed.png)
+
 ![AWS 35 Business Professional Module 4 AWS Products and Services Solutions](https://user-images.githubusercontent.com/76437195/104212963-2d394200-540c-11eb-9cf0-dadd52e9eb83.jpg)
 
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
