@@ -15,6 +15,7 @@
 ![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg)
 
 ## [Migrating to AWS - Business Italian](https://www.aws.training/Details/Curriculum?id=63929)
+![AWS 44 AWS Solutions Training for Partners Migrating to AWS Business Italian](https://user-images.githubusercontent.com/76437195/104240238-21607680-5432-11eb-85b2-2a239caa00f6.jpg)
 
 
 # Classroom(s) AWS
@@ -33,6 +34,9 @@
 
 ## Treinamentos Destaques:
 
+#### [AWSInnovate2020]()
+![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104240321-4228cc00-5432-11eb-9375-5aae1890bf70.jpg)
+
 #### [Marketing Topic for Partners  Business  Spanish]() 
 ![AWS 04 PartnerCast - Marketing Topic for Partners  Business  Spanish](https://user-images.githubusercontent.com/76437195/104140955-95474400-538a-11eb-82d6-f1a9fbdbd099.jpg)
 
@@ -48,12 +52,8 @@
 #### [AWS Cloud Practitioner Essentials AWS Integrated Services]() 
 ![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg) 
 
-#### [AWSInnovate2020]()
-
-![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
-
 #### [AWS PartnerCast - 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS - Technical](https://www.aws.training/Details/Video?id=58202)
-
+![AWS 43 AWS PartnerCast 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS Technical](https://user-images.githubusercontent.com/76437195/104240304-39d09100-5432-11eb-915d-041bc8c4ed6a.jpg)
 
 ## CERTIFICADOS por ordem de Datas
 
@@ -139,4 +139,10 @@
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
 
-![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg)
+![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg) 
+
+![AWS 43 AWS PartnerCast 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS Technical](https://user-images.githubusercontent.com/76437195/104240304-39d09100-5432-11eb-915d-041bc8c4ed6a.jpg)
+
+![AWS 44 AWS Solutions Training for Partners Migrating to AWS Business Italian](https://user-images.githubusercontent.com/76437195/104240238-21607680-5432-11eb-85b2-2a239caa00f6.jpg)
+
+![AWS 45 AWS Solutions Training for Partners Migrating to AWS Business Assessment Italian](https://user-images.githubusercontent.com/76437195/104240270-2e7d6580-5432-11eb-933a-3346e0e2951a.jpg)
