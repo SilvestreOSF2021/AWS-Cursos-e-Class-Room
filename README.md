@@ -2,11 +2,11 @@
 
 ## Acreditacion 
 
+![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
+
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
-
-![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
 
 ## 01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
 ![AWS Classroom 01 AWS Solutions Training for Partners Foundations  Technical  21 May 2020 São Paulo BRA](https://user-images.githubusercontent.com/76437195/104212526-b3a15400-540b-11eb-86e2-54ea85b84b91.jpg)
@@ -35,6 +35,7 @@
 #### [AWS Cloud Practitioner Essentials AWS Integrated Services]() 
 ![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg) 
 
+![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
 
 ## CERTIFICADOS por ordem de Datas
 
@@ -108,42 +109,19 @@
 
 ![AWS 35 Business Professional Module 4 AWS Products and Services Solutions](https://user-images.githubusercontent.com/76437195/104212963-2d394200-540c-11eb-9cf0-dadd52e9eb83.jpg)
 
-![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
+![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
 
 ![AWS 40 AWS IoT Navigate Business](https://user-images.githubusercontent.com/76437195/104213100-55c13c00-540c-11eb-8675-533375c3f031.jpg)
 
 ![AWS 41 AWS Technical Professional Digital Module 1 Introduction to AWS](https://user-images.githubusercontent.com/76437195/104213131-5ce84a00-540c-11eb-8c14-4f7ab53f3986.png)
 
+![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
+
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
 
-![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
-
-
 ## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
-
-
-
-
-
-AWS SMART 101
-Description: This course gives you a high-level overview of how the Sales & Marketing Analytics Reporting Tool (SMART) works. SMART is your internal dashboard for billed revenue. This training covers the most commonly used pre-built dashboards where you can view Sales Attainment Revenue, Company Sales Revenue, Daily Estimated Revenue, and Reserved Instances data for your territory.
-https://www.aws.training/Details/Video?id=22469
-
-
-AWS PartnerCast Migration to AWS Tools Overview
-https://www.aws.training/Details/Curriculum?id=22204 
-
-
-Working with Captions using AWS Elemental MediaLive
-Description: This course provides an overview of the purpose of captions. It will explain the key differentiators between common caption formations. 
-https://www.aws.training/Details/eLearning?id=40297 
-
-
-AWS Solutions Training for Partners: AWS For Windows - Technical (Digital) (Spanish)
-Descripción: El curso abarca los aspectos técnicos fundamentales de la ejecución de aplicaciones de Microsoft en AWS. 
-https://www.aws.training/Details/Curriculum?id=19158 
 
 
 // Importante ~> 
