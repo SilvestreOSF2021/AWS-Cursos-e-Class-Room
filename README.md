@@ -1,12 +1,16 @@
 # AWS Cursos e Class Room 
 
 ## 01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
+![AWS Classroom 01 AWS Solutions Training for Partners Foundations  Technical  21 May 2020 São Paulo BRA](https://user-images.githubusercontent.com/76437195/104212526-b3a15400-540b-11eb-86e2-54ea85b84b91.jpg)
 
 ## 02.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 9 June, 2020 Bogotá COL 
+![AWS Classroom 02 AWS Solutions Training for Partners Foundations Business 9 June 2020 Bogotá COL](https://user-images.githubusercontent.com/76437195/104212555-bb60f880-540b-11eb-8a18-f09a62d0c5ce.jpg)
 
 ## 03.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 16 June, 2020 México MEX
+![AWS Classroom 03 AWS Solutions Training for Partners Foundations Business 16 June 2020 Mexico MEX](https://user-images.githubusercontent.com/76437195/104212576-c2880680-540b-11eb-821d-1136db4d1d25.jpg)
 
 ## 04.  AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX
+![AWS Classroom 04 AWS Solutions Training for Partners Migrating to AWS Business 16 June 2020 México MEX](https://user-images.githubusercontent.com/76437195/104212604-c9af1480-540b-11eb-8fec-1c4c78b2e254.jpg)
 
 #### [1. Advanced CloudFormation: Macros](https://www.aws.training/Details/eLearning?id=43238&fbclid=IwAR3-2b3iVEzoLJTot8RCM_bkivGeEUFH8PZxXkyvavzHWahhcfyc6OKt4YY) In this course, you will learn how to create and use macros. The focus is on creating and using macros in AWS CloudFormation templates. (...)
 ![AWS 01 Advanced CloudFormation Macros](https://user-images.githubusercontent.com/76437195/104139029-ebae8580-537e-11eb-9f72-172589ffba08.jpg)
@@ -68,6 +72,33 @@
 
 ![AWS 26 credenciamento AWS Business Professional](https://user-images.githubusercontent.com/76437195/104199678-1b50a280-53fe-11eb-9e67-65e18f97243f.jpg)
 
+![AWS 27 AWS Cloud Practitioner Essentials Introduction](https://user-images.githubusercontent.com/76437195/104212759-f19e7800-540b-11eb-8911-eaa7e831444a.jpg)
+
+![AWS 28 AWS Cloud Practitioner Essentials Introduction on tha AWS Cloud](https://user-images.githubusercontent.com/76437195/104212789-f82cef80-540b-11eb-9217-fbdd571e4e04.jpg)
+
+![AWS 29 AWS Cloud Practitioner Essentials AWS Architecture](https://user-images.githubusercontent.com/76437195/104212811-febb6700-540b-11eb-8e63-206ca2a594e3.jpg)
+
+![AWS 30 AWS Cloud Practitioner Essentials AWS Core Services](https://user-images.githubusercontent.com/76437195/104212845-07ac3880-540c-11eb-9c28-bad2354fe91a.png)
+
+![AWS 31 AWS Cloud Practitioner Essentials AWS Security](https://user-images.githubusercontent.com/76437195/104212864-10047380-540c-11eb-9712-0aef46ac16ac.png)
+
+![AWS 32 AWS Cloud Practitioner Essentials AWS Pricing and Support](https://user-images.githubusercontent.com/76437195/104212892-198ddb80-540c-11eb-97e3-127c8015b20f.jpg)
+
+![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg)
+
+![AWS 35 Business Professional Module 4 AWS Products and Services Solutions](https://user-images.githubusercontent.com/76437195/104212963-2d394200-540c-11eb-9cf0-dadd52e9eb83.jpg)
+
+![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
+
+![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
+
+![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
+
+![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
+
+![AWS 40 AWS IoT Navigate Business](https://user-images.githubusercontent.com/76437195/104213100-55c13c00-540c-11eb-8675-533375c3f031.jpg)
+
+![AWS 41 AWS Technical Professional Digital Module 1 Introduction to AWS](https://user-images.githubusercontent.com/76437195/104213131-5ce84a00-540c-11eb-8c14-4f7ab53f3986.png)
 
 
 ## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
