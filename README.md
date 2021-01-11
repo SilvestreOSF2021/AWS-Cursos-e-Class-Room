@@ -1,5 +1,13 @@
 # AWS Cursos e Class Room 
 
+## 01.  AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX
+
+## 02.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 16 June, 2020 México MEX
+
+## 03.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 9 June, 2020 Bogotá COL
+
+## 04.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
+
 #### [1. Advanced CloudFormation: Macros](https://www.aws.training/Details/eLearning?id=43238&fbclid=IwAR3-2b3iVEzoLJTot8RCM_bkivGeEUFH8PZxXkyvavzHWahhcfyc6OKt4YY) In this course, you will learn how to create and use macros. The focus is on creating and using macros in AWS CloudFormation templates. (...)
 ![AWS 01 Advanced CloudFormation Macros](https://user-images.githubusercontent.com/76437195/104139029-ebae8580-537e-11eb-9f72-172589ffba08.jpg)
 
