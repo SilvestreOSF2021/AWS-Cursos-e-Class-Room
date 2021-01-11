@@ -28,7 +28,7 @@
 
 ![AWS 10 Bussiness Professional Modulo 01](https://user-images.githubusercontent.com/76437195/104199309-a8472c00-53fd-11eb-84f4-6dd4ad7bc6db.jpg)
 
-![AWS 11 Bussiness Professional Modulo 02](https://user-images.githubusercontent.com/76437195/104199336-b006d080-53fd-11eb-9b49-b025c42eb5d6.png)
+![AWS 11 Bussiness Professional Modulo 02](https://user-images.githubusercontent.com/76437195/104200027-8c905580-53fe-11eb-86f3-4019b6c6b01a.png)
 
 ![AWS 12 AWS SMART 101](https://user-images.githubusercontent.com/76437195/104199360-b8f7a200-53fd-11eb-8e08-3afd69d7d584.png)
 
