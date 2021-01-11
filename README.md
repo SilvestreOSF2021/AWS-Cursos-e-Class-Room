@@ -1,18 +1,17 @@
-# AWS Cursos e Classroom 
+# AWS Cursos e Classroom(s)
 
 ## Acreditación / Certificados / Accreditation:
 
-## [AWS Business Professional Digital]()
-
+## [AWS Business Professional Digital](https://www.aws.training/Details/Curriculum?id=30254)
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
 
-## [AWS Business Professional Portuguese]()
-
+## [AWS Business Professional Portuguese](https://www.aws.training/Details/Curriculum?id=38114)
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
-## [AWS Cloud Practitioner]()
-
+## [AWS Cloud Practitioner](https://www.aws.training/Details/eLearning?id=29699)
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
+
+## [AWS for Windows Technical Spanish](https://www.aws.training/Details/Curriculum?id=19158)
 
 
 # Classroom(s) AWS
@@ -131,6 +130,8 @@
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
+
+
 
 ## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
 
