@@ -1,6 +1,6 @@
 # AWS Cursos e Class Room 
 
-## Acreditacion 
+## Acreditacion / Certificados
 
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
 
