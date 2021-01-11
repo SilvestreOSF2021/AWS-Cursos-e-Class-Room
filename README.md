@@ -16,5 +16,9 @@
 ![AWS 05 Introduction to AWS Elemental MediaConnect](https://user-images.githubusercontent.com/76437195/104140960-9d06e880-538a-11eb-9a4d-5de5a5a194ad.png)
 
 #### [6. Working with Image Insertion](https://www.aws.training/Details/Video?id=24798) Description: In this tutorial, you will learn how to use AWS Elemental MediaConvert to insert an image, such as a watermark or logo, as a separate layer in a video output. (...)
+![AWS 06 Working with Image Insertion](https://user-images.githubusercontent.com/76437195/104141183-dab84100-538b-11eb-941b-d33a45a1e3b6.jpg)
 
 #### [7.AWS Business Professional](https://www.aws.training/Details/Curriculum?id=30254)Descrição: O treinamento #AWSBusinessProfessional fornece uma visão geral sobre a AWS e sobre a rede de parceiros da AWS, principais produtos e serviços da AWS e principal valor comercial. A conclusão deste curso ajuda os parceiros a criar conhecimentos e habilidades básicas para otimizar de forma eficaz as soluções da AWS em compromissos bem-sucedidos com clientes. (...)
+![AWS 07 Bussiness Professional](https://user-images.githubusercontent.com/76437195/104141189-e0158b80-538b-11eb-9db4-44bf1900cae8.png) 
+
+## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19
