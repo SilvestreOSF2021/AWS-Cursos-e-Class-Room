@@ -1,18 +1,21 @@
-# AWS Cursos e Class Room 
+# AWS Cursos e Classroom 
 
-## Acreditacion / Certificados
+## Acreditación / Certificados / Accreditation:
 
 ## [AWS Business Professional Digital]()
 
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
 
-## [AWS Business Professional Poetuguese]()
+## [AWS Business Professional Portuguese]()
 
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
 ## [AWS Cloud Practitioner]()
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
+
+
+# Classroom(s) AWS
 
 ## 01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
 ![AWS Classroom 01 AWS Solutions Training for Partners Foundations  Technical  21 May 2020 São Paulo BRA](https://user-images.githubusercontent.com/76437195/104212526-b3a15400-540b-11eb-86e2-54ea85b84b91.jpg)
@@ -25,6 +28,8 @@
 
 ## 04.  AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX
 ![AWS Classroom 04 AWS Solutions Training for Partners Migrating to AWS Business 16 June 2020 México MEX](https://user-images.githubusercontent.com/76437195/104212604-c9af1480-540b-11eb-8fec-1c4c78b2e254.jpg)
+
+## Treinamentos Destaques:
 
 #### [Marketing Topic for Partners  Business  Spanish]() 
 ![AWS 04 PartnerCast - Marketing Topic for Partners  Business  Spanish](https://user-images.githubusercontent.com/76437195/104140955-95474400-538a-11eb-82d6-f1a9fbdbd099.jpg)
