@@ -1,5 +1,13 @@
 # AWS Cursos e Class Room 
 
+## Acreditacion 
+
+![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
+
+![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
+
+![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
+
 ## 01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
 ![AWS Classroom 01 AWS Solutions Training for Partners Foundations  Technical  21 May 2020 São Paulo BRA](https://user-images.githubusercontent.com/76437195/104212526-b3a15400-540b-11eb-86e2-54ea85b84b91.jpg)
 
@@ -12,27 +20,37 @@
 ## 04.  AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX
 ![AWS Classroom 04 AWS Solutions Training for Partners Migrating to AWS Business 16 June 2020 México MEX](https://user-images.githubusercontent.com/76437195/104212604-c9af1480-540b-11eb-8fec-1c4c78b2e254.jpg)
 
-#### [1. Advanced CloudFormation: Macros](https://www.aws.training/Details/eLearning?id=43238&fbclid=IwAR3-2b3iVEzoLJTot8RCM_bkivGeEUFH8PZxXkyvavzHWahhcfyc6OKt4YY) In this course, you will learn how to create and use macros. The focus is on creating and using macros in AWS CloudFormation templates. (...)
-![AWS 01 Advanced CloudFormation Macros](https://user-images.githubusercontent.com/76437195/104139029-ebae8580-537e-11eb-9f72-172589ffba08.jpg)
-
-#### [2.PostgreSQL Fundamentals: SQL Command Line](https://www.aws.training/Details/eLearning?id=43293&fbclid=IwAR1AFjDmeHIoyBDTbycIw-6jgTy4D9hQzgTiIPjCKdRJJWaI7Jm0VZH1EcE) In this course, you will learn how to: • Use psql - The native, command-line client to postgresql (...)
-![AWS 02 PostgreSQL Fundamentals SQL Command Line](https://user-images.githubusercontent.com/76437195/104140233-d6d5f000-5386-11eb-9142-b2787eb1a25a.jpg)
-
-#### [3.Introduction to AWS Inferentia and Amazon EC2 Inf1 Instances](https://www.aws.training/Details/Video?id=42195&fbclid=IwAR3IQqHvN2cB5FfiKWNV13kdzPnioFlnbK0mDssyZJlI-lWkh4JFaxYsZQ8) In this video, you will learn about machine learning inference processing challenges and use cases, and get an understanding of the AWS solution to help solve the challenges using Amazon EC2 Inf1 instances powered by AWS Inferentia. (...) 
-![AWS 03 Introduction to AWS Inferentia and Amazon EC2 Inf1 Instances](https://user-images.githubusercontent.com/76437195/104140237-ddfcfe00-5386-11eb-938d-95e18d76d535.jpg)
-
-#### [4.AWS PartnerCast - Marketing Topic for Partners](https://www.aws.training/Details/Video?id=43993) - Business (Spanish) APN Marketing Central permite acceder a campañas de marketing de autoservicio que le permiten compartir marca y lanzar rápidamente campañas basadas en soluciones o colaborar con las agencias participantes en servicios de marketing selectos. (...)
+#### [Marketing Topic for Partners  Business  Spanish]() 
 ![AWS 04 PartnerCast - Marketing Topic for Partners  Business  Spanish](https://user-images.githubusercontent.com/76437195/104140955-95474400-538a-11eb-82d6-f1a9fbdbd099.jpg)
 
-#### [5.Introduction to AWS Elemental MediaConnect](https://www.aws.training/Details/Video?id=27170) In this course, you will learn about AWS Elemental MediaConnect, a transport service for live video that enables contribution of high-quality live video streams into the AWS Cloud, replication of these live video streams to build sophisticated video workflows, and secure sharing and distribution business to business, with partners and to destinations in the AWS Cloud or on the Internet. (...)
+#### [AWS PartnerCast reInvent2018]() 
+![AWS 13 AWS PartnerCast reInvent2018](https://user-images.githubusercontent.com/76437195/104199384-c01eb000-53fd-11eb-9025-93d0df0e5a0f.jpg)
+
+#### [AWS PartnerCast Migration to AWS Tools Overview]() 
+![AWS 14 AWS PartnerCast Migration to AWS Tools Overview](https://user-images.githubusercontent.com/76437195/104199402-c6ad2780-53fd-11eb-9316-c77d9706eba0.jpg)
+
+#### [AWS STP Windows Server y Active Directory en AWS]() 
+![AWS 20 AWS STP Windows Server y Active Directory en AWS](https://user-images.githubusercontent.com/76437195/104199528-f1977b80-53fd-11eb-839b-692cf11619e5.jpg)
+
+#### [AWS Cloud Practitioner Essentials AWS Integrated Services]() 
+![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg) 
+
+
+## CERTIFICADOS por ordem de Datas
+
+![AWS 01 Advanced CloudFormation Macros](https://user-images.githubusercontent.com/76437195/104139029-ebae8580-537e-11eb-9f72-172589ffba08.jpg)
+
+![AWS 02 PostgreSQL Fundamentals SQL Command Line](https://user-images.githubusercontent.com/76437195/104140233-d6d5f000-5386-11eb-9142-b2787eb1a25a.jpg)
+
+![AWS 03 Introduction to AWS Inferentia and Amazon EC2 Inf1 Instances](https://user-images.githubusercontent.com/76437195/104140237-ddfcfe00-5386-11eb-938d-95e18d76d535.jpg)
+
+![AWS 04 PartnerCast - Marketing Topic for Partners  Business  Spanish](https://user-images.githubusercontent.com/76437195/104140955-95474400-538a-11eb-82d6-f1a9fbdbd099.jpg)
+
 ![AWS 05 Introduction to AWS Elemental MediaConnect](https://user-images.githubusercontent.com/76437195/104140960-9d06e880-538a-11eb-9a4d-5de5a5a194ad.png)
 
-#### [6. Working with Image Insertion](https://www.aws.training/Details/Video?id=24798) Description: In this tutorial, you will learn how to use AWS Elemental MediaConvert to insert an image, such as a watermark or logo, as a separate layer in a video output. (...)
 ![AWS 06 Working with Image Insertion](https://user-images.githubusercontent.com/76437195/104141183-dab84100-538b-11eb-941b-d33a45a1e3b6.jpg)
 
-#### [7.AWS Business Professional](https://www.aws.training/Details/Curriculum?id=30254)Descrição: O treinamento #AWSBusinessProfessional fornece uma visão geral sobre a AWS e sobre a rede de parceiros da AWS, principais produtos e serviços da AWS e principal valor comercial. A conclusão deste curso ajuda os parceiros a criar conhecimentos e habilidades básicas para otimizar de forma eficaz as soluções da AWS em compromissos bem-sucedidos com clientes. (...)
 ![AWS 07 Bussiness Professional](https://user-images.githubusercontent.com/76437195/104141189-e0158b80-538b-11eb-9db4-44bf1900cae8.png) 
-
 
 ![AWS 08 Bussiness Professional Modulo Zero](https://user-images.githubusercontent.com/76437195/104199232-91a0d500-53fd-11eb-9643-3c631449a427.png)
 
@@ -92,15 +110,15 @@
 
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
 
+![AWS 40 AWS IoT Navigate Business](https://user-images.githubusercontent.com/76437195/104213100-55c13c00-540c-11eb-8675-533375c3f031.jpg)
+
+![AWS 41 AWS Technical Professional Digital Module 1 Introduction to AWS](https://user-images.githubusercontent.com/76437195/104213131-5ce84a00-540c-11eb-8c14-4f7ab53f3986.png)
+
 ![AWS 37 AWS Business Professional Portuguese](https://user-images.githubusercontent.com/76437195/104213007-3cb88b00-540c-11eb-99bb-943a0142f79a.png)
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
 
 ![AWS 39 AWSInnovate2020](https://user-images.githubusercontent.com/76437195/104213064-4cd06a80-540c-11eb-9359-0cafdbed78ef.jpg)
-
-![AWS 40 AWS IoT Navigate Business](https://user-images.githubusercontent.com/76437195/104213100-55c13c00-540c-11eb-8675-533375c3f031.jpg)
-
-![AWS 41 AWS Technical Professional Digital Module 1 Introduction to AWS](https://user-images.githubusercontent.com/76437195/104213131-5ce84a00-540c-11eb-8c14-4f7ab53f3986.png)
 
 
 ## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
