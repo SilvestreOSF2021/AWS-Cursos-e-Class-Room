@@ -12,7 +12,7 @@
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
 
 ## [AWS for Windows Technical Spanish](https://www.aws.training/Details/Curriculum?id=19158)
-
+![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg)
 
 # Classroom(s) AWS
 
@@ -131,22 +131,4 @@
 
 ![AWS 38 AWS Cloud Practitioner Essentials Second Edition](https://user-images.githubusercontent.com/76437195/104213041-4641f300-540c-11eb-9919-aa0be52702e2.png)
 
-
-
-## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
-
-
-// Importante ~> 
-
-https://www.facebook.com/19dez19/photos/a.1611423138881103/2774866152536790
-
-(I) Acreditación que se adquiere: Profesional Técnico de AWS
-
-https://www.facebook.com/19dez19/photos/a.1611423138881103/2774990765857662
-
-(II) credenciamento AWS Business Professional
-
-https://www.facebook.com/19dez19/photos/a.1611423138881103/2774990765857662
-
-
-
+![AWS 42 AWS for Windows Technical Spanish](https://user-images.githubusercontent.com/76437195/104226428-2b787a00-541e-11eb-876e-8f42c2390d98.jpg)
