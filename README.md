@@ -21,4 +21,42 @@
 #### [7.AWS Business Professional](https://www.aws.training/Details/Curriculum?id=30254)Descrição: O treinamento #AWSBusinessProfessional fornece uma visão geral sobre a AWS e sobre a rede de parceiros da AWS, principais produtos e serviços da AWS e principal valor comercial. A conclusão deste curso ajuda os parceiros a criar conhecimentos e habilidades básicas para otimizar de forma eficaz as soluções da AWS em compromissos bem-sucedidos com clientes. (...)
 ![AWS 07 Bussiness Professional](https://user-images.githubusercontent.com/76437195/104141189-e0158b80-538b-11eb-9db4-44bf1900cae8.png) 
 
-## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19
+## Fonte: 16dez16 ~> 19dez19 no Facebook: https://www.facebook.com/19dez19 
+
+
+
+
+
+AWS SMART 101
+Description: This course gives you a high-level overview of how the Sales & Marketing Analytics Reporting Tool (SMART) works. SMART is your internal dashboard for billed revenue. This training covers the most commonly used pre-built dashboards where you can view Sales Attainment Revenue, Company Sales Revenue, Daily Estimated Revenue, and Reserved Instances data for your territory.
+https://www.aws.training/Details/Video?id=22469
+
+
+AWS PartnerCast Migration to AWS Tools Overview
+https://www.aws.training/Details/Curriculum?id=22204 
+
+
+Working with Captions using AWS Elemental MediaLive
+Description: This course provides an overview of the purpose of captions. It will explain the key differentiators between common caption formations. 
+https://www.aws.training/Details/eLearning?id=40297 
+
+
+AWS Solutions Training for Partners: AWS For Windows - Technical (Digital) (Spanish)
+Descripción: El curso abarca los aspectos técnicos fundamentales de la ejecución de aplicaciones de Microsoft en AWS. 
+https://www.aws.training/Details/Curriculum?id=19158 
+
+
+// Importante ~> 
+
+https://www.facebook.com/19dez19/photos/a.1611423138881103/2774866152536790
+
+(I) Acreditación que se adquiere: Profesional Técnico de AWS
+
+https://www.facebook.com/19dez19/photos/a.1611423138881103/2774990765857662
+
+(II) credenciamento AWS Business Professional
+
+https://www.facebook.com/19dez19/photos/a.1611423138881103/2774990765857662
+
+
+
