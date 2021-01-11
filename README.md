@@ -17,16 +17,16 @@
 
 # Classroom(s) AWS
 
-## 01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA 
+## [01.  AWS Solutions Training for Partners: Foundations - Technical (Classroom) 21 May 2020 São Paulo BRA](https://www.aws.training/Details/InstructorLedTraining?id=48602)
 ![AWS Classroom 01 AWS Solutions Training for Partners Foundations  Technical  21 May 2020 São Paulo BRA](https://user-images.githubusercontent.com/76437195/104212526-b3a15400-540b-11eb-86e2-54ea85b84b91.jpg)
 
-## 02.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 9 June, 2020 Bogotá COL 
+## 02.  [AWS Solutions Training for Partners: Foundations - Business (Classroom) 9 June, 2020 Bogotá COL](https://www.aws.training/Details/InstructorLedTraining?id=48698)
 ![AWS Classroom 02 AWS Solutions Training for Partners Foundations Business 9 June 2020 Bogotá COL](https://user-images.githubusercontent.com/76437195/104212555-bb60f880-540b-11eb-8a18-f09a62d0c5ce.jpg)
 
-## 03.  AWS Solutions Training for Partners: Foundations - Business (Classroom) 16 June, 2020 México MEX
+## 03.  [AWS Solutions Training for Partners: Foundations - Business (Classroom) 16 June, 2020 México MEX](https://www.aws.training/Details/InstructorLedTraining?id=48615)
 ![AWS Classroom 03 AWS Solutions Training for Partners Foundations Business 16 June 2020 Mexico MEX](https://user-images.githubusercontent.com/76437195/104212576-c2880680-540b-11eb-821d-1136db4d1d25.jpg)
 
-## 04.  AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX
+## 04.  [AWS Solutions Training for Partners: Migrating to AWS - Business (Classroom) 16 June, 2020 México MEX](https://www.aws.training/Details/InstructorLedTraining?id=48616)
 ![AWS Classroom 04 AWS Solutions Training for Partners Migrating to AWS Business 16 June 2020 México MEX](https://user-images.githubusercontent.com/76437195/104212604-c9af1480-540b-11eb-8fec-1c4c78b2e254.jpg)
 
 ## Treinamentos Destaques:
@@ -34,7 +34,7 @@
 #### [Marketing Topic for Partners  Business  Spanish]() 
 ![AWS 04 PartnerCast - Marketing Topic for Partners  Business  Spanish](https://user-images.githubusercontent.com/76437195/104140955-95474400-538a-11eb-82d6-f1a9fbdbd099.jpg)
 
-#### [AWS PartnerCast reInvent2018]() 
+#### [AWS PartnerCast reInvent2018](https://www.aws.training/Details/InstructorLedTraining?id=48616) 
 ![AWS 13 AWS PartnerCast reInvent2018](https://user-images.githubusercontent.com/76437195/104199384-c01eb000-53fd-11eb-9025-93d0df0e5a0f.jpg)
 
 #### [AWS PartnerCast Migration to AWS Tools Overview]() 
