@@ -1,6 +1,6 @@
 # AWS Cursos e Classroom(s)
 
-## Acreditación / Certificados / Accreditation:
+## Acreditación / Credenciamento / Accreditation:
 
 ## [AWS Business Professional Digital](https://www.aws.training/Details/Curriculum?id=30254)
 ![AWS 36 AWS Business Professional Digital Certificado](https://user-images.githubusercontent.com/76437195/104212986-35917d00-540c-11eb-8cfa-a48d3c2fc0fe.png)
