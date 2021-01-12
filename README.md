@@ -56,8 +56,10 @@
 ![AWS 43 AWS PartnerCast 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS Technical](https://user-images.githubusercontent.com/76437195/104240304-39d09100-5432-11eb-915d-041bc8c4ed6a.jpg) 
 
 #### [Cosa significa partecipare all’AWS Partner Netork (APN) - Business Italian](https://www.aws.training/Details/Video?id=59042)
+![AWS 46 Cosa significa partecipare all AWS Partner Netork APN Business Italian](https://user-images.githubusercontent.com/76437195/104274807-0add0e00-5478-11eb-9014-9a20104b4b42.jpg)
 
 #### [Come prepararsi per la certificazione AWS Certified Cloud Practitioner - Business Italian](https://www.aws.training/Details/Video?id=63556)
+![AWS 47 Come prepararsi per la certificazione AWS Certified Cloud Practitioner  Business  Italian](https://user-images.githubusercontent.com/76437195/104274823-129cb280-5478-11eb-9e5c-64e37e6e49cf.jpg)
 
 ## CERTIFICADOS por ordem de Datas
 
@@ -149,4 +151,8 @@
 
 ![AWS 44 AWS Solutions Training for Partners Migrating to AWS Business Italian](https://user-images.githubusercontent.com/76437195/104240238-21607680-5432-11eb-85b2-2a239caa00f6.jpg)
 
-![AWS 45 AWS Solutions Training for Partners Migrating to AWS Business Assessment Italian](https://user-images.githubusercontent.com/76437195/104240270-2e7d6580-5432-11eb-933a-3346e0e2951a.jpg)
+![AWS 45 AWS Solutions Training for Partners Migrating to AWS Business Assessment Italian](https://user-images.githubusercontent.com/76437195/104274775-fac52e80-5477-11eb-9e86-877362b1c914.jpg)
+
+![AWS 46 Cosa significa partecipare all AWS Partner Netork APN Business Italian](https://user-images.githubusercontent.com/76437195/104274807-0add0e00-5478-11eb-9014-9a20104b4b42.jpg)
+
+![AWS 47 Come prepararsi per la certificazione AWS Certified Cloud Practitioner  Business  Italian](https://user-images.githubusercontent.com/76437195/104274823-129cb280-5478-11eb-9e5c-64e37e6e49cf.jpg)
