@@ -52,8 +52,12 @@
 #### [AWS Cloud Practitioner Essentials AWS Integrated Services]() 
 ![AWS 33 AWS Cloud Practitioner Essentials AWS Integrated Services](https://user-images.githubusercontent.com/76437195/104212919-20b4e980-540c-11eb-8ade-0af5ea66e5c4.jpg) 
 
-#### [AWS PartnerCast - 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS - Technical](https://www.aws.training/Details/Video?id=58202)
-![AWS 43 AWS PartnerCast 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS Technical](https://user-images.githubusercontent.com/76437195/104240304-39d09100-5432-11eb-915d-041bc8c4ed6a.jpg)
+#### [AWS PartnerCast - 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS - Technical Italian](https://www.aws.training/Details/Video?id=58202)
+![AWS 43 AWS PartnerCast 5 strategie per accelerare l’utilizzo dei Container grazie ad AWS Technical](https://user-images.githubusercontent.com/76437195/104240304-39d09100-5432-11eb-915d-041bc8c4ed6a.jpg) 
+
+#### [Cosa significa partecipare all’AWS Partner Netork (APN) - Business Italian](https://www.aws.training/Details/Video?id=59042)
+
+#### [Come prepararsi per la certificazione AWS Certified Cloud Practitioner - Business Italian](https://www.aws.training/Details/Video?id=63556)
 
 ## CERTIFICADOS por ordem de Datas
 
