@@ -61,6 +61,13 @@
 #### [Come prepararsi per la certificazione AWS Certified Cloud Practitioner - Business Italian](https://www.aws.training/Details/Video?id=63556)
 ![AWS 47 Come prepararsi per la certificazione AWS Certified Cloud Practitioner  Business  Italian](https://user-images.githubusercontent.com/76437195/104274823-129cb280-5478-11eb-9e5c-64e37e6e49cf.jpg)
 
+#### [Prepariamoci alla certificazione AWS Solution Architect Associate! Ep.1 - Technical](https://www.aws.training/Details/Video?id=58906)
+![AWS 48 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 1 Technical Italian](https://user-images.githubusercontent.com/76437195/104373806-5256af00-54f7-11eb-8928-9f114cc59097.jpg)
+
+#### [Prepariamoci alla certificazione AWS Solution Architect Associate! Ep.2 - Technical](https://www.aws.training/Details/Video?id=62555)
+![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
+
+
 ## CERTIFICADOS por ordem de Datas
 
 ![AWS 01 Advanced CloudFormation Macros](https://user-images.githubusercontent.com/76437195/104139029-ebae8580-537e-11eb-9f72-172589ffba08.jpg)
@@ -155,4 +162,11 @@
 
 ![AWS 46 Cosa significa partecipare all AWS Partner Netork APN Business Italian](https://user-images.githubusercontent.com/76437195/104274807-0add0e00-5478-11eb-9014-9a20104b4b42.jpg)
 
-![AWS 47 Come prepararsi per la certificazione AWS Certified Cloud Practitioner  Business  Italian](https://user-images.githubusercontent.com/76437195/104274823-129cb280-5478-11eb-9e5c-64e37e6e49cf.jpg)
+![AWS 47 Come prepararsi per la certificazione AWS Certified Cloud Practitioner  Business  Italian](https://user-images.githubusercontent.com/76437195/104274823-129cb280-5478-11eb-9e5c-64e37e6e49cf.jpg) 
+
+![AWS 48 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 1 Technical Italian](https://user-images.githubusercontent.com/76437195/104373806-5256af00-54f7-11eb-8928-9f114cc59097.jpg)
+
+![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
+
+
+
