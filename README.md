@@ -67,6 +67,12 @@
 #### [Prepariamoci alla certificazione AWS Solution Architect Associate! Ep.2 - Technical](https://www.aws.training/Details/Video?id=62555)
 ![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
 
+#### [Climb Your Verticals - Business Italian](https://www.aws.training/Details/Video?id=50405)
+
+#### [Move to Managed File Storage Deep Dive for Sellers - Business Italian](https://www.aws.training/Details/Video?id=58498)
+
+#### [How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS - Business Italian](https://www.aws.training/Details/Video?id=59038)
+
 
 ## CERTIFICADOS por ordem de Datas
 
