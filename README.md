@@ -68,10 +68,13 @@
 ![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
 
 #### [Climb Your Verticals - Business Italian](https://www.aws.training/Details/Video?id=50405)
+![AWS 50 Climb Your Verticals  Business Italian](https://user-images.githubusercontent.com/76437195/104750660-c7f69100-572a-11eb-802e-e6d99748712d.jpg)
 
 #### [Move to Managed File Storage Deep Dive for Sellers - Business Italian](https://www.aws.training/Details/Video?id=58498)
+![AWS 51 Move to Managed File Storage Deep Dive for Sellers  Business](https://user-images.githubusercontent.com/76437195/104750736-db096100-572a-11eb-9a41-7ac50a1e006e.jpg)
 
 #### [How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS - Business Italian](https://www.aws.training/Details/Video?id=59038)
+![AWS 52 How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS](https://user-images.githubusercontent.com/76437195/104750766-e8265000-572a-11eb-86cc-e44da1943d7b.jpg)
 
 
 ## CERTIFICADOS por ordem de Datas
@@ -174,5 +177,9 @@
 
 ![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
 
+![AWS 50 Climb Your Verticals  Business Italian](https://user-images.githubusercontent.com/76437195/104750660-c7f69100-572a-11eb-802e-e6d99748712d.jpg)
 
+![AWS 51 Move to Managed File Storage Deep Dive for Sellers  Business](https://user-images.githubusercontent.com/76437195/104750736-db096100-572a-11eb-9a41-7ac50a1e006e.jpg)
+
+![AWS 52 How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS](https://user-images.githubusercontent.com/76437195/104750766-e8265000-572a-11eb-86cc-e44da1943d7b.jpg)
 
