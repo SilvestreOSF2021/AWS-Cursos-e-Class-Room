@@ -68,7 +68,7 @@
 ![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg)
 
 #### [Prepariamoci alla certificazione AWS Solution Architect Associate! Ep.3 - Technical](https://www.aws.training/Details/Video?id=64075)
-![AWS 53 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 3 Technical Italian](https://user-images.githubusercontent.com/76437195/104819591-c8635a80-5804-11eb-8e27-772faf1aa3b0.jpg)
+![AWS 53 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 3 Technical Italian](https://user-images.githubusercontent.com/76437195/104819706-9ef6fe80-5805-11eb-9f8b-83cb06fc46f5.jpg)
 
 #### [Climb Your Verticals - Business Italian](https://www.aws.training/Details/Video?id=50405)
 ![AWS 50 Climb Your Verticals  Business Italian](https://user-images.githubusercontent.com/76437195/104750660-c7f69100-572a-11eb-802e-e6d99748712d.jpg)
@@ -180,7 +180,7 @@
 
 ![AWS 49 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 2 Technical Italian](https://user-images.githubusercontent.com/76437195/104373813-54b90900-54f7-11eb-848a-fd7efbba3cb6.jpg) 
 
-![AWS 53 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 3 Technical Italian](https://user-images.githubusercontent.com/76437195/104819591-c8635a80-5804-11eb-8e27-772faf1aa3b0.jpg)
+![AWS 53 Prepariamoci alla certificazione AWS Solution Architect Associate! Ep 3 Technical Italian](https://user-images.githubusercontent.com/76437195/104819706-9ef6fe80-5805-11eb-9f8b-83cb06fc46f5.jpg)
 
 ![AWS 50 Climb Your Verticals  Business Italian](https://user-images.githubusercontent.com/76437195/104750660-c7f69100-572a-11eb-802e-e6d99748712d.jpg)
 
