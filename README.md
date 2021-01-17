@@ -80,6 +80,7 @@
 ![AWS 52 How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS](https://user-images.githubusercontent.com/76437195/104750766-e8265000-572a-11eb-86cc-e44da1943d7b.jpg)
 
 #### [Introduction to the APN Technical Baseline Review- Business](https://www.aws.training/Details/Video?id=58126)
+![AWS 54 Introduction to the APN Technical Baseline Review Business Italian](https://user-images.githubusercontent.com/76437195/104843176-99e68d80-589f-11eb-939b-597b0d4f2eac.jpg)
 
 ## CERTIFICADOS por ordem de Datas
 
@@ -187,5 +188,7 @@
 
 ![AWS 51 Move to Managed File Storage Deep Dive for Sellers  Business](https://user-images.githubusercontent.com/76437195/104750736-db096100-572a-11eb-9a41-7ac50a1e006e.jpg)
 
-![AWS 52 How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS](https://user-images.githubusercontent.com/76437195/104750766-e8265000-572a-11eb-86cc-e44da1943d7b.jpg)
+![AWS 52 How Amazon FSx for Windows File Server can help you migrate more SQL workloads to AWS](https://user-images.githubusercontent.com/76437195/104750766-e8265000-572a-11eb-86cc-e44da1943d7b.jpg) 
+
+![AWS 54 Introduction to the APN Technical Baseline Review Business Italian](https://user-images.githubusercontent.com/76437195/104843176-99e68d80-589f-11eb-939b-597b0d4f2eac.jpg)
 
