@@ -83,9 +83,10 @@
 ![AWS 54 Introduction to the APN Technical Baseline Review Business Italian](https://user-images.githubusercontent.com/76437195/104843176-99e68d80-589f-11eb-939b-597b0d4f2eac.jpg) 
 
 #### [Introduzione alle migrazioni cloud su AWS - Technical](https://www.aws.training/Details/Video?id=58216)
-![AWS 55 Introduzione alle migrazioni cloud su AWS Technical  Italian](https://user-images.githubusercontent.com/76437195/104974308-ddd7b080-59cd-11eb-9b38-b2f39c340c89.jpg)
+![AWS 55 Introduzione alle migrazioni cloud su AWS Technical  Italian](https://user-images.githubusercontent.com/76437195/104982388-ef768380-59e0-11eb-8aaf-1deb96dfcfbd.jpg)  
 
 #### [Modernizzare le nostre applicazioni con Machine Learning su AWS - Business](https://www.aws.training/Details/Video?id=5864)
+![AWS 56 Modernizzare le nostre applicazioni con Machine Learning su AWS Business  Italian](https://user-images.githubusercontent.com/76437195/104982405-f9988200-59e0-11eb-8e1a-a63a40e385c8.jpg)
 
 #### [Amazon Connect - il tuo contact center su AWS - Technical](https://www.aws.training/Details/Video?id=5871)
 
@@ -199,6 +200,8 @@
 
 ![AWS 54 Introduction to the APN Technical Baseline Review Business Italian](https://user-images.githubusercontent.com/76437195/104843176-99e68d80-589f-11eb-939b-597b0d4f2eac.jpg) 
 
-![AWS 55 Introduzione alle migrazioni cloud su AWS Technical  Italian](https://user-images.githubusercontent.com/76437195/104974308-ddd7b080-59cd-11eb-9b38-b2f39c340c89.jpg)
+![AWS 55 Introduzione alle migrazioni cloud su AWS Technical  Italian](https://user-images.githubusercontent.com/76437195/104982388-ef768380-59e0-11eb-8aaf-1deb96dfcfbd.jpg) 
+
+![AWS 56 Modernizzare le nostre applicazioni con Machine Learning su AWS Business  Italian](https://user-images.githubusercontent.com/76437195/104982405-f9988200-59e0-11eb-8e1a-a63a40e385c8.jpg)
 
 
