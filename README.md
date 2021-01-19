@@ -85,6 +85,9 @@
 #### [Introduzione alle migrazioni cloud su AWS - Technical](https://www.aws.training/Details/Video?id=58216)
 ![AWS 55 Introduzione alle migrazioni cloud su AWS Technical  Italian](https://user-images.githubusercontent.com/76437195/104974308-ddd7b080-59cd-11eb-9b38-b2f39c340c89.jpg)
 
+#### [Modernizzare le nostre applicazioni con Machine Learning su AWS - Business](https://www.aws.training/Details/Video?id=5864)
+
+#### [Amazon Connect - il tuo contact center su AWS - Technical](https://www.aws.training/Details/Video?id=5871)
 
 ## CERTIFICADOS por ordem de Datas
 
