@@ -91,6 +91,14 @@
 #### [Amazon Connect - il tuo contact center su AWS - Technical](https://www.aws.training/Details/Video?id=5871)
 ![AWS 57 Amazon Connect il tuo contact center su AWS Technical Italian](https://user-images.githubusercontent.com/76437195/105108537-db8a5a80-5a90-11eb-9ff5-0be36e3197d6.jpg)
 
+#### [AWS Organizations Technical Spanish](https://www.aws.training/Details/Video?id=37331)
+
+#### [AWS y el IVA a los servicos digitales en Chile Business Spanish](https://www.aws.training/Details/Video?id=55351)
+
+#### [Springboard to Your Cloud Practitioner Certification Business Spanish](https://www.aws.training/Details/Video?id=60285) 
+
+
+
 
 ## CERTIFICADOS por ordem de Datas
 
