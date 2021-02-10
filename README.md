@@ -33,8 +33,7 @@
 ![AWS Classroom 04 AWS Solutions Training for Partners Migrating to AWS Business 16 June 2020 México MEX](https://user-images.githubusercontent.com/76437195/104212604-c9af1480-540b-11eb-8fec-1c4c78b2e254.jpg) 
 
 ## 05. [AWS Classroom 05 AWS Solutions Training for Partners Machine Learning on AWS Business  10 Fev 2021 São Paulo BRA](https://www.aws.training/Details/InstructorLedTraining?id=63487)
-
-...
+![AWS Classroom 05 AWS Solutions Training for Partners Machine Learning on AWS Business  10 Fev 2021 São Paulo BRA](https://user-images.githubusercontent.com/76437195/107541761-da36e400-6b9d-11eb-8b7d-8e5345570959.jpg)
 
 ## Treinamentos Destaques:
 
